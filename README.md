@@ -5,7 +5,7 @@ This repository contains an **Excel-based tracker** for swing trades on the **NS
 > 📌 **Note:** The Excel file in this repository is a **static snapshot**. For **live updates**, refer to the **Google Sheet link below**.
 
 ## 🔗 Live Google Sheet (Auto-Updated)
-📎 [Click here to view the live tracker]([https://docs.google.com/spreadsheets/d/YOUR-SHEET-ID-HERE](https://docs.google.com/spreadsheets/d/1H3T_FUpCpCvKieD2MJoo2vaxpZaOmyj4KZxZ9Eftofo/edit?usp=sharing)
+📎 [Click here to view the live tracker](https://docs.google.com/spreadsheets/d/1H3T_FUpCpCvKieD2MJoo2vaxpZaOmyj4KZxZ9Eftofo/edit?usp=sharing)
 
 ---
 
